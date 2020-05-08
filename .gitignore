@@ -1,0 +1,4 @@
+node_modules/
+.credentials/
+client_secret.json
+config.js

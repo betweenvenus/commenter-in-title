@@ -1,0 +1,19 @@
+{
+  "name": "video-title-updater",
+  "version": "1.0.0",
+  "description": "A script for updating the title of a Dad video with the name of the latest commenter.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon",
+  "license": "ISC",
+  "dependencies": {
+    "@2toad/profanity": "^1.1.0",
+    "google-auth-library": "^6.0.0",
+    "googleapis": "^48.0.0"
+  },
+  "devDependencies": {
+    "npm-watch": "^0.6.0"
+  }
+}
